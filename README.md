@@ -48,7 +48,7 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 
 ## 🏆 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yDarkJS&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yDarkJS&show_icons=true&theme=tokyonight) ---
 
 ---
 
