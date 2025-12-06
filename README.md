@@ -1,6 +1,6 @@
 # ❄️ Pedro Santiago — Web & Tech Builder  
 
-![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bab3ebd-3305-4419-8d26-970ffc316f35/d8gi5o5-1021f649-359a-4366-a31e-89ebc1f3dca9.jpg/v1/fill/w_1600,h_440,q_75,strp/dracula_untold_banner_by_augustkrig33_d8gi5o5-fullview.jpg)
+![Banner](https://i.imgur.com/3qsT2pa.jpeg)
 
 ---
 
@@ -46,15 +46,15 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 
 ---
 
-## 🏆 Estatísticas
+## 🏆 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yDarkJS&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yDarkJS&show_icons=true)
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Conecte-se comigo
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-assis-santiago-742864222/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-assis-santiago-742864222/)
 
 ---
 
