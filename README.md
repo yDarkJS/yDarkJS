@@ -51,7 +51,4 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-assis-santiago-742864222/)
 
 ---
-
-✨ Acreditando no Potencial **"A jornada de mil quilômetros começa com o primeiro passo."** – **Lao Tzu** --- 
-👨‍💻 **Vamos codificar e criar algo incrível juntos!**
 ✨ “Primeiro código hoje, software inovador amanhã.”
