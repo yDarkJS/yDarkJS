@@ -46,14 +46,12 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 
 ---
 
-## 📊 Estatísticas do GitHub Aqui está um pouco do meu progresso no GitHub: ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yDarkJS&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-assis-santiago-742864222/)
 
 ---
 
-## ✨ “Primeiro código hoje, software inovador amanhã.”
+✨ Acreditando no Potencial **"A jornada de mil quilômetros começa com o primeiro passo."** – **Lao Tzu** --- 
+👨‍💻 **Vamos codificar e criar algo incrível juntos!**
+✨ “Primeiro código hoje, software inovador amanhã.”
