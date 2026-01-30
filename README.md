@@ -36,7 +36,7 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 
 ## 🔥 Projetos em Destaque
 
-| Projeto | Categoria | Vídeo / Código | Tecnologias |
+| Projeto | Categoria | Vídeo / Website | Tecnologias |
 |--------|:---------:|:--------------:|-------------|
 | **PlugConsorcios** | Simuladora de Consorcio | 🔗 https://plugconsorcios.com.br/landing | React • TS |
 | **Prospect Speed** | Captador de Leads | 🔗 https://prospectspeed.com/ | React • TS |
