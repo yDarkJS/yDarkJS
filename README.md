@@ -38,6 +38,9 @@ JavaScript Avançado • React • SEO para Web • Python para automações
 
 | Projeto | Categoria | Vídeo / Código | Tecnologias |
 |--------|:---------:|:--------------:|-------------|
+| **PlugConsorcios** | Simuladora de Consorcio | 🔗 https://plugconsorcios.com.br/landing | React • TS |
+| **Prospect Speed ** | Captador de Leads | 🔗 https://prospectspeed.com/ | React • TS |
+| **Proposee ** | Propostas Digitais | 🔗 https://proposee.pro/ | React • TS |
 | **Aurah Keys** | Marketplace Digital | 🎥 https://www.youtube.com/watch?v=Wgb_j3x5PHo | HTML • CSS • JS |
 | **Aurah Offers — Affiliate E-Commerce** | Vendas / Afiliados | 🎥 https://www.youtube.com/watch?v=1CWzPCyfI9Q | HTML • CSS • JS |
 | **Aurah Offers — Bio Premium** | Criador de páginas bio | 🎥 https://www.youtube.com/watch?v=EQgeTGWAmrw | HTML • CSS • JS |
